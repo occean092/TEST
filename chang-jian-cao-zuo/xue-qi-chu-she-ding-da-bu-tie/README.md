@@ -14,7 +14,7 @@ description: 本系統中所有功能模組都需要根據學期初設定才能�
 2. _處室資料：新增、刪減處室單位以符合貴校編制。_
 3. _職稱資料：新增、刪減職稱資料，並對應到正確的所屬處室_。
 
-{% hint style="info" %}
+{% hint style="warning" %}
 哈囉
 {% endhint %}
 
@@ -26,6 +26,48 @@ description: 本系統中所有功能模組都需要根據學期初設定才能�
 2. 2.新進教職員：新增新任教職員帳號、基本資料。
 
 依照新學年度教師資料進行資料異動作業，若有新進教師，請進行新增帳號作業，若有大量教職員帳號要建立，可採用批次匯入作業。
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+{% tabs %}
+{% tab title="第一" %}
+
+{% endtab %}
+
+{% tab title="第二個" %}
+這個可以用喔
+
+我在這邊！！！ＡＡＡＡ
+{% endtab %}
+
+{% tab title="第三個" %}
+Ｕ
+{% endtab %}
+{% endtabs %}
+
+<details>
+
+<summary>喔葉我是框框</summary>
+
+
+
+</details>
+
+\---------
+
+```
+// Some code
+```
+
+{% swagger method="get" path="" baseUrl="" summary="" %}
+{% swagger-description %}
+
+{% endswagger-description %}
+{% endswagger %}
 
 ### ​[模組管理](https://stern-information.gitbook.io/cloudschool/xi-guan-li-mo/module)​ <a href="#mo-zu-guan-li" id="mo-zu-guan-li"></a>
 
